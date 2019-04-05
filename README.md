@@ -1,5 +1,5 @@
 # H2 de Teste
 
-![./saothome.jpg] (Nascer do sol da pirâmide)
+![Nascer do sol da pirâmide] (./saothome.jpg)
 
 Um repositório de exemplo.
